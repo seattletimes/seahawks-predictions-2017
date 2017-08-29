@@ -1,0 +1,41 @@
+{
+  "Green Bay": {
+    "logo": "greenbay.png"
+  },
+  "San Francisco": {
+    "logo": "sanfrancisco.png"
+  },
+  "Tennessee": {
+    "logo": "tennessee.png"
+  },
+  "Indianapolis": {
+    "logo": "indianapolis.png"
+  },
+  "L.A. Rams": {
+    "logo": "larams.png"
+  },
+  "N.Y. Giants": {
+    "logo": "nygiants.png"
+  },
+  "Houston": {
+    "logo": "houston.png"
+  },
+  "Washington": {
+    "logo": "washington.png"
+  },
+  "Arizona": {
+    "logo": "arizona.png"
+  },
+  "Atlanta": {
+    "logo": "atlanta.png"
+  },
+  "Philadelphia": {
+    "logo": "philadelphia.png"
+  },
+  "Jacksonville": {
+    "logo": "jacksonville.png"
+  },
+  "Dallas": {
+    "logo": "dallas.png"
+  }
+}

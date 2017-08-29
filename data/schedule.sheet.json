@@ -1,0 +1,178 @@
+[
+  {
+    "game": 1,
+    "location": "away",
+    "opponent": "Green Bay",
+    "date": "Sept. 10, 1:25 p.m.",
+    "station": "FOX",
+    "bob": "L",
+    "stef": "L",
+    "larry": "L",
+    "matt": "L"
+  },
+  {
+    "game": 2,
+    "location": "home",
+    "opponent": "San Francisco",
+    "date": "Sept. 17, 1:25 p.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 3,
+    "location": "away",
+    "opponent": "Tennessee",
+    "date": "Sept. 24, 1:05 p.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 4,
+    "location": "home",
+    "opponent": "Indianapolis",
+    "date": "Oct. 1, 5:30 p.m.",
+    "station": "NBC",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 5,
+    "location": "away",
+    "opponent": "L.A. Rams",
+    "date": "Oct. 8, 1:05 p.m.",
+    "station": "CBS",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 6,
+    "location": "away",
+    "opponent": "N.Y. Giants",
+    "date": "Oct. 22, 1:25 p.m.",
+    "station": "CBS",
+    "bob": "L",
+    "stef": "W",
+    "larry": "W",
+    "matt": "L"
+  },
+  {
+    "game": 7,
+    "location": "home",
+    "opponent": "Houston",
+    "date": "Oct. 29, 1:05 p.m.",
+    "station": "CBS",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 8,
+    "location": "home",
+    "opponent": "Washington",
+    "date": "Nov. 5, 1:05 p.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "L"
+  },
+  {
+    "game": 9,
+    "location": "away",
+    "opponent": "Arizona",
+    "date": "Nov. 9, 5:25 p.m.",
+    "station": "NBC",
+    "bob": "L",
+    "stef": "L",
+    "larry": "L",
+    "matt": "L"
+  },
+  {
+    "game": 10,
+    "location": "home",
+    "opponent": "Atlanta",
+    "date": "Nov. 20, 5:30 p.m.",
+    "station": "ESPN",
+    "bob": "W",
+    "stef": "?",
+    "larry": "?",
+    "matt": "?"
+  },
+  {
+    "game": 11,
+    "location": "away",
+    "opponent": "San Francisco",
+    "date": "Nov. 26, 1:05 p.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 12,
+    "location": "home",
+    "opponent": "Philadelphia",
+    "date": "Dec. 3, 5:30 p.m.",
+    "station": "NBC",
+    "bob": "W",
+    "stef": "L",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 13,
+    "location": "away",
+    "opponent": "Jacksonville",
+    "date": "Dec. 10, 10 a.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 14,
+    "location": "home",
+    "opponent": "L.A. Rams",
+    "date": "Dec. 17, 1:05 p.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  },
+  {
+    "game": 15,
+    "location": "away",
+    "opponent": "Dallas",
+    "date": "Dec. 24, 1:25 p.m.",
+    "station": "FOX",
+    "bob": "L",
+    "stef": "W",
+    "larry": "L",
+    "matt": "L"
+  },
+  {
+    "game": 16,
+    "location": "home",
+    "opponent": "Arizona",
+    "date": "Dec. 31, 1:25 p.m.",
+    "station": "FOX",
+    "bob": "W",
+    "stef": "W",
+    "larry": "W",
+    "matt": "W"
+  }
+]
