@@ -21,10 +21,14 @@
   },
   "paul": {
     "name": "Paul Barrett",
+    "comment": "The Seahawks should earn home-field advantage, which will allow them to reach their third Super Bowl under Pete Carroll. And look for them to beat Oakland and former Seahawks star Marshawn Lynch in the Big Game.\n",
     "title": "Sports Editor"
   },
   "scott": {
     "name": "Scott Hanson",
+    "comment": "The Seahawks will beat Arizona to win the NFC West again, but will not get a first-round bye and will lose again in the conference semifinals.",
+    "wins": 10,
+    "loss": 6,
     "title": "Assistant Sports Editor"
   }
 }

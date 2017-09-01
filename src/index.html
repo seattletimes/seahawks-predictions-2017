@@ -16,7 +16,7 @@
         <h1 class="headline">Seahawks pick 'em</h1>
         <h2 class="subhead">How will the Seahawks do in 2017?</h2>
         <p class="chatter">
-
+          Chatter will eventually go here
         </p>
 
         <div class="container">
@@ -26,30 +26,33 @@
               <li data-game="<%= r.game %>" class="row">
                 <div class="meta">
                   <div class="info">
-                  <strong> WEEK <%= r.game %> </strong>  <br> <%= r.date %> <br><%= r.station %>
+                  <strong> WEEK <%= r.game %> </strong>  <br> <%= r.date %> <br><%= r.station %> <br>
+                  <% if (r.result == "W" || r.result == "L") { %>
+                  <div class="score"> <%= r.result == "W" ? "Seahawks win" : r.result == "L" ? "Seahawks lose" : ""  %> <%= r.score %> </div>
+                  <%  } %>
                   </div>
                    <br>
                    <div class="images">
 
                   <% if (r.location == "home") { %>
                   <div class="home">
-                    <img class="logo team" src="./assets/seahawks.png" data-game="<%= r.game %>" data-prediction="W"><div class="team"> Seahawks</div>
+                    <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %> " src="./assets/seahawks.png" data-game="<%= r.game %>" data-prediction="W"><div class="team"> Seahawks</div>
                   </div>
                   <div class="location-container">
                     <div class="location"><%= r.location == "home" ? "vs." : "@" %></div>
                   </div>
                   <div class="away">
-                    <img class="logo team" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"> <div class="team"><%= r.opponent %></div>
+                    <img class="logo team <%= r.result == "L" ? "won" : "" %> <%= r.result == "W" ? "faded" : "" %>" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"> <div class="team"><%= r.opponent %></div>
                   </div>
                 <%  } else { %>
                   <div class="home">
-                     <img class="logo team" src="./assets/seahawks.png" data-game="<%= r.game %>" data-prediction="W"> <div class="team"> Seahawks</div>
+                     <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %>" src="./assets/seahawks.png" data-game="<%= r.game %>" data-prediction="W"> <div class="team"> Seahawks</div>
                   </div>
                   <div class="location-container">
                     <div class="location"><%= r.location == "home" ? "VS." : "@" %></div>
                   </div>
                   <div class="away">
-                    <img class="logo team" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"><div class="team"><%= r.opponent %></div>
+                    <img class="logo team <%= r.result == "L" ? "won" : "" %> <%= r.result == "W" ? "faded" : "" %>" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"><div class="team"><%= r.opponent %></div>
                   </div>
                 <%  } %>
                     </div>

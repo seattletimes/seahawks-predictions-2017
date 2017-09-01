@@ -102,6 +102,11 @@ main {
       opacity: .4;
     }
 
+    &.won {
+      opacity: 1;
+      transform: scale(1.15);
+    }
+
     @media @mobile {
       height: 60px;
     }
@@ -123,10 +128,23 @@ main {
 }
 
 .info {
-  padding-top: 20px;
+  padding-top: 10px;
+  padding-left: 5px;
 
-  @media @mobile {
-    padding-left: 10px;
+
+  .score {
+    font-size: 17px;
+    color: @df-off-white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid @df-light-gray;
+    background: @team-color;
+    border-radius: 4px;
+    text-align: center;
+
+    @media @mobile {
+      margin-right: 5px;
+    }
   }
 }
 
@@ -160,11 +178,12 @@ main {
   }
 
   img:hover {
-    transform: scale(1.2);
+    transform: scale(1.15);
   }
 
   .away {
-    width: 110px;
+    width: 120px;
+    font-size: 17px;
 
     @media @mobile {
       width: 100px;
@@ -172,8 +191,9 @@ main {
     }
   }
 
-  .home{
-    width: 140px;
+  .home {
+    width: 150px;
+    font-size: 17px;
 
     @media @mobile {
       width: 100px;
@@ -283,6 +303,9 @@ main {
     @media @mobile {
       font-size: 30px;
     }
+    @media @tablet {
+      text-align: center;
+    }
   }
 
   .content {
@@ -300,7 +323,7 @@ main {
     background-color: @team-color;
     cursor: pointer;
     padding: 5px 16px;
-    color: @df-off-white;
+    color: @hawks-green;
     margin-bottom: 7px;
     margin-right: 5px;
     text-decoration: none;
@@ -325,6 +348,7 @@ main {
 .row {
   background: @df-off-white;
   margin-bottom: 40px;
+
 }
 
 .expert-opinions {
@@ -343,6 +367,7 @@ main {
     font-size: 16px;
     padding: 0 16px 16px 0;
     border-right: 1px solid @df-light-gray;
+    font-family: @df-serif;
 
     @media @tablet {
       .flex(0 0 50%);
