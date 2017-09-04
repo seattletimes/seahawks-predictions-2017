@@ -86,7 +86,7 @@
     "matt": "L",
     "scott": "L",
     "paul": "W",
-    "sean": "W",
+    "sean": "L",
     "evan": "L"
   },
   {
@@ -101,6 +101,7 @@
     "matt": "W",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -115,6 +116,7 @@
     "matt": "L",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -129,6 +131,7 @@
     "matt": "L",
     "scott": "L",
     "paul": "L",
+    "sean": "W",
     "evan": "L"
   },
   {
@@ -138,11 +141,12 @@
     "date": "Nov. 20, 5:30 p.m.",
     "station": "ESPN",
     "bob": "W",
-    "stef": "?",
+    "stef": "W",
     "larry": "?",
     "matt": "?",
     "scott": "L",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -157,6 +161,7 @@
     "matt": "W",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -171,6 +176,7 @@
     "matt": "W",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -185,6 +191,7 @@
     "matt": "W",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -199,6 +206,7 @@
     "matt": "W",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "W"
   },
   {
@@ -213,6 +221,7 @@
     "matt": "L",
     "scott": "L",
     "paul": "L",
+    "sean": "L",
     "evan": "W"
   },
   {
@@ -227,6 +236,7 @@
     "matt": "W",
     "scott": "W",
     "paul": "W",
+    "sean": "W",
     "evan": "L"
   }
 ]

@@ -9,19 +9,29 @@
   "larry": {
     "name": "Larry Stone",
     "comment": "The key for the Seahawks is to obtain home-field advantage, which should be attainable with their schedule, provided there aren’t too many major injuries. That’s been a route to the Super Bowl in the past and I think it will be again this year. But the lame-duck Raiders will give their Oakland fans one more title to savor.",
+    "wins": 13,
+    "loss": 3,
     "title": "Columnist "
   },
   "stef": {
-    "name": "Stefanie Loh"
+    "name": "Stefanie Loh",
+    "comment": "The Seahawks should earn home-field advantage, which will allow them to reach their third Super Bowl under Pete Carroll. And look for them to beat Oakland and former Seahawks star Marshawn Lynch in the Big Game.\n",
+    "wins": 13,
+    "loss": 3,
+    "title": "Staff Reporter"
   },
   "matt ": {
     "name": "Matt Calkins",
     "comment": "This season is going to feel a lot like last season. The Seahawks are still one of, if not the most talented defensive teams in the NFL, and have enough on both sides of the ball to put together another double-digit win season. But their shortcomings on the offensive line will hamper their trademark running game and ultimately stifle them in the playoffs.",
+    "wins": 11,
+    "loss": 5,
     "title": "Columnist "
   },
   "paul": {
     "name": "Paul Barrett",
     "comment": "The Seahawks should earn home-field advantage, which will allow them to reach their third Super Bowl under Pete Carroll. And look for them to beat Oakland and former Seahawks star Marshawn Lynch in the Big Game.\n",
+    "wins": 13,
+    "loss": 3,
     "title": "Sports Editor"
   },
   "scott": {
@@ -30,5 +40,12 @@
     "wins": 10,
     "loss": 6,
     "title": "Assistant Sports Editor"
+  },
+  "sean": {
+    "name": "Sean Quinton",
+    "comment": "The Seahawks have a healthy Russell Wilson, balanced rushing attack, loaded defensive line, a motivated LOB and a deep roster of talent. Sound familiar? The similarities between this team and the 2013 Super Bowl squad are striking, and the results could be, too.",
+    "wins": 13,
+    "loss": 3,
+    "title": "Sports Producer"
   }
 }
