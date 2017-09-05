@@ -6,15 +6,15 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "2017/seahawks-pick-em"
     }
   },
-  "title": "",
-  "description": "",
-  "url": "",
-  "image": "assets/social.jpg",
+  "title": "Seahawks pick 'em: How will the Hawks do in 2017?",
+  "description": "Think you’ve got what it takes to guess the Seahawks' 2017 season correctly?",
+  "url": "http://projects.seattletimes.com/2017/seahawks-pick-em/",
+  "image": "assets/seahawkssocial.jpg",
   "sheets": ["1hZChLeA0MwDW1UeRxqvbXv1pqvBmAhseRz3ytxLbj2s"],
   "standout": false,
   "embedded": true,
-  "production": false
+  "production": true 
 }
